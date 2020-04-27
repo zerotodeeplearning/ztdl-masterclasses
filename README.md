@@ -21,7 +21,7 @@ Learn what deep learning is and learn to use Python, Keras and Tensorflow to bui
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Neural_Networks_with_Keras.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
-### Pandas_Matplotlib_Seaborn
+### Pandas Matplotlib Seaborn
 Recap of main functionality of Pandas, Matplotlib and Seaborn with lots of exercises.
 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Pandas_Matplotlib_Seaborn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
