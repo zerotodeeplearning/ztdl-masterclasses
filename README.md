@@ -43,3 +43,15 @@ Binary classification with Scikit Learn. Numerical and categorical features. Mod
 Clustering with Scikit Learn on Iris flower dataset. KMeans, DBScan, Silhouette Score.
 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Clustering_with_Scikit_Learn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### Feature Engineering with Scikit Learn
+Feature engineering with Scikit Learn on Titanic Dataset. Use transformers to create new features and improve your model performance.
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Feature_Engineering_with_Scikit_Learn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### Model Evaluation and Dimensionality Reduction with Scikit Learn
+Evaluating model performance using Pipelines, Cross-Validation, Learning curves and Dimensionality Reduction.
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Model_Evaluation_and_Dimensionality_Reduction_with_Scikit_Learn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
