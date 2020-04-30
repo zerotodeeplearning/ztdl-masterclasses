@@ -55,3 +55,15 @@ Feature engineering with Scikit Learn on Titanic Dataset. Use transformers to cr
 Evaluating model performance using Pipelines, Cross-Validation, Learning curves and Dimensionality Reduction.
 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Model_Evaluation_and_Dimensionality_Reduction_with_Scikit_Learn.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### Introduction to Deep Learning with Keras
+First steps with Neural Networks using Keras to solve classifiation and regression problems.
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Introduction_to_Deep_Learning_with_Keras.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### Keras Functional API and Model Inspection
+Functional API, Callbacks, Inner Layer visualization and Tensorboard.
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Keras_Functional_API_and_Model_Inspection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
