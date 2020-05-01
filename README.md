@@ -67,3 +67,15 @@ First steps with Neural Networks using Keras to solve classifiation and regressi
 Functional API, Callbacks, Inner Layer visualization and Tensorboard.
 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Keras_Functional_API_and_Model_Inspection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### The Power of TensorFlow
+Explore other APIs in TensorFlow. Dataset API, Feature Columns API, Layers and Model API.
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/The_Power_of_TensorFlow.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### Hyperparameter tuning
+Tune hyperparameters using Grid Search, Random Search and Keras Autotuner.
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Hyperparameter_tuning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
