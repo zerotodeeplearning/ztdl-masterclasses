@@ -157,3 +157,9 @@ Train a neural network to perform character translation using RNNs
 Serve Scikit Learn and Tensorflow models using Flask
 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Model_Serving_with_Flask.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### Word Embeddings with Gensim
+Visualize word embeddings with Gensim, Glove, Matplotlib and Plotly Express
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Word_Embeddings_with_Gensim.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
