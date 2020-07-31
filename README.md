@@ -164,6 +164,11 @@ Visualize word embeddings with Gensim, Glove, Matplotlib and Plotly Express
 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Word_Embeddings_with_Gensim.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+### Gradient Boosting with XGBoost and LightGBM
+Exploration of binary classification with several boosting algorithms. Hyperparameter tuning, grid search and categorical features.
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Gradient_Boosting_with_XGBoost_and_LightGBM.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 ### Real World ML Car Prices Regression
 End-to-End Machine Learning exercise on messy dataset. Data cleaning, feature engineering, model selection with Scikit Learn, XGBoost and LightGBM.
@@ -175,3 +180,5 @@ End-to-End Machine Learning exercise on messy dataset. Data cleaning, feature en
 End-to-End Machine Learning exercise on unbalanced text dataset. Data cleaning, model selection with Scikit Learn, XGBoost, LightGBM, FastText and Gensim.
 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Real_World_ML_Ads_Classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
