@@ -1,5 +1,6 @@
-# Ztdl Masterclasses
-Zero to Deep Learning Masterclasses
+# Zero to Deep Learning Masterclasses
+
+## Learn with us: www.zerotodeeplearning.com
 
 
 ## Titles
@@ -182,3 +183,4 @@ End-to-End Machine Learning exercise on unbalanced text dataset. Data cleaning, 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Real_World_ML_Ads_Classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
+Copyright © 2021: Zero to Deep Learning ® Catalit LLC.
