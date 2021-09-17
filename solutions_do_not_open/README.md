@@ -182,7 +182,7 @@ End-to-End Machine Learning exercise on unbalanced text dataset. Data cleaning, 
 <a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/solutions_do_not_open/Real_World_ML_Ads_Classification_solution.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Attention with Keras Solution
-<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/solutions_do_not_open/Attention_with_Keras_Solution.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/solutions_do_not_open/Attention_with_Keras_solution.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
