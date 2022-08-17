@@ -188,3 +188,15 @@ End-to-End Machine Learning exercise on unbalanced text dataset. Data cleaning, 
 
 Copyright © 2021: Zero to Deep Learning ® Catalit LLC.
 
+
+
+### Intro_to_Python_1
+
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Intro_to_Python_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+### Intro_to_Python_2
+
+
+<a href="https://colab.research.google.com/github/zerotodeeplearning/ztdl-masterclasses/blob/master/notebooks/Intro_to_Python_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
